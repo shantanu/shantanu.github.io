@@ -230,6 +230,7 @@ GEM
     octokit (4.21.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
+    particles-js-rails (2.0.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
@@ -276,6 +277,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
+  particles-js-rails
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
