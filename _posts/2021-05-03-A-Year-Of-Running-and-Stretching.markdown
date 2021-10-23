@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "A Year of Running and Stretching"
 date:   2021-05-03 20:15:00 -0400
 categories: fitness
