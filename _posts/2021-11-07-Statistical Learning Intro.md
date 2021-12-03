@@ -2,7 +2,7 @@
 layout: default
 title:  "Statistical Learning Introduction"
 date:   2021-11-07 20:15:00 -0400
-categories: fitness
+categories: machine learning
 ---
 
 *The following are my notes from the ISLR book, available freely online [here](https://www.statlearning.com). I used Notion to present these notes in a Q+A format, done through toggles. The Notion page is [here](https://www.notion.so/ISLR-Chapter-2-Statistical-Learning-712c257f5ed24f3186250e29fc2503b2). The Jupyter Notebook of the lab and exercises can be found here.* 
